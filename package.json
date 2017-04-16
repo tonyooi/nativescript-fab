@@ -1,0 +1,11 @@
+{
+   "name": "nativescript-fab",
+   "version": "0.0.1",
+   "main": "fab",
+   "nativescript": {
+       "platforms": {
+           "ios": "2.0.0",
+           "android": "2.0.0"
+       }
+   }
+}
